@@ -162,11 +162,11 @@ Eğer bilgisayarınızda Python’a ait başka sürümler varsa denetim masasın
   6)http://www.pydev.org/manual_101_install.html +
   7)http://stackoverflow.com/questions/19688424/why-is-apt-get-function-not-working-in-terminal-on-mac-osx-10-9 +
 
-+ image:images/2.png["Resim 1",height=32]
+image::2.png[Resim 1,height=32]
 
 image::https://github.com/mervetafrali/r1.adoc/blob/95eae24afa9403af0bd3eceb7889c9a95b3acc98/2.png[]
 
-
+image::r9.png[]
 
 
 
