@@ -35,7 +35,7 @@ Eclipse için birçok paket bulunmaktadır. İşletim sisteminize ve işlemciniz
 adresinden indirebilirsiniz. Biz son paketi olan Neon Packages 64 bit versiyonu kurulumunu anlatacağız. 
 İşletim sistemimiz macOS Sierra olduğundan bu bölümde MacBook bilgisayarlar için kurulumunu anlatacağız. +
 Yukarıda verdiğimiz linke tıkladığımız da Resim 1’de ki gibi ekran ile karşılaşırız. +
-Resim 1. Eclipse Download sayfası.
+Resim 1. Eclipse Download sayfası. +
 image::2.png[] 
 Buradan “DOWNLOAD 64 BIT “ butonuyla Eclipse Neon versiyonunu indirebilirsiniz. 
 Ayrıca paketleri incelemek isterseniz indirme butonunun altında yazan “Download Packages” butonuna tıklayarak diğer paketleri 
