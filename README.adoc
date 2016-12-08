@@ -162,6 +162,7 @@ Eğer bilgisayarınızda Python’a ait başka sürümler varsa denetim masasın
   6)http://www.pydev.org/manual_101_install.html +
   7)http://stackoverflow.com/questions/19688424/why-is-apt-get-function-not-working-in-terminal-on-mac-osx-10-9 +
 
+image:files/2.png[1.Resim]
 
 
 
